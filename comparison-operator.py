@@ -1,3 +1,6 @@
+# This code calculates the population densities of Rio de Janeiro and San Francisco.
+# Write code to compare these densities. Is the population of San Francisco more dense than that of Rio de Janeiro? Print True if it is and False if not.
+
 sf_population, sf_area = 864816, 231.89
 rio_population, rio_area = 6453682, 486.5
 
